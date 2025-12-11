@@ -88,7 +88,7 @@ The policy for Google Veo3 is included in the Generative AI Additional Terms of 
 ### Gap Analysis
 I would say the main gap that I noticed from uploading to YouTube is that the Content ID system defaults to "guilty until proven innocent." If the detector finds a content violation, then it will immediately make you re-evaluate your options, and in some cases I can imagine it would prevent you from uploading. In addition, if a user is genuinely uploading something that should be fair use, then they might have to risk getting a Copyright Strike, or worse getting demonetized.
 
-## Appendix
+## 5. Appendix
 All screenshots are included in the images folder. The links are included as well (note: some of the youtube videos might be taken down):
 - Raw Copyrighted Clip: https://www.youtube.com/watch?v=U1fU25JCvN8
 - Edited Clip: https://youtu.be/glrfeBnv1N0
@@ -96,4 +96,4 @@ All screenshots are included in the images folder. The links are included as wel
 - AI-Generated Animation: https://youtu.be/YcDFp4oELDY
 
 ### Timestamps
-[1](images/5.png)
+![1](images/5.png)
