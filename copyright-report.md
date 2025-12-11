@@ -36,7 +36,7 @@ YouTube has Content ID licencing agreements. For example, a lot of record labels
 
 Another special program YouTube has is YouTube Creator Music. Basically, there is a marketplace in YouTube Studio, and creators can browse a catalog of popular music and either buy a license or pay nothing upfront, but then agree to split your video's revenue with the artist. This means that YouTube creators can use copyrighted music without losing all of the revenue from the video.
 
---
+---
 
 ## 2. Fair Use Experiments
 ### Raw Copyrighted Clip
@@ -54,7 +54,7 @@ I edited together two different Taylor Swift videos (I figured they would defini
 ![6](images/2-B-2.png)
 ![7](images/2-B-3.png)
 
---
+---
 
 ## 3. AI-Generated Content Investigation
 
@@ -77,7 +77,7 @@ The prompt I used was "create an avatar the last airbender animation, very simil
 ### AI-Generated Content Research
 The policy for Google Veo3 is included in the Generative AI Additional Terms of Service and says that I own the generated content. In terms of copyright, the content is public domain, and this is due to the US Copyright Office. The rule says that if a work was created entirely by AI, then it is not eligible for copyright protection. Finally, if you upload content that looks realistic on YouTube, you ahve to check a specific AI content button to specify that it is AI. If you don't label it, then YouTube has the right to remove the content and demonetize your account. 
 
---
+---
 
 ## 4. Legal Analysis
 ### Experiment 1 - Raw Copyrighted Clip
