@@ -81,8 +81,23 @@ The policy for Google Veo3 is included in the Generative AI Additional Terms of 
 
 ## 4. Legal Analysis
 ### Experiment 1 - Raw Copyrighted Clip
-i. The purpose and characterw as not transformative because I was directly copying existing content.
-ii. The existing song is creative, so when I directly copy it I am committing a violation. 
-iii. I used 30 seconds, which is significant enough for a viewer to know that this is a Taylor Swift song.
-iv. I wouldn't say that this is going to take away from the market or the original music video in any significant way, but it could pull some users away if they click on my video instead of the original.
+1. The purpose and character was not transformative because I was directly copying existing content.
+2. The existing song is creative, so when I directly copy it I am committing a violation. 
+3. I used 30 seconds, which is significant enough for a viewer to know that this is a Taylor Swift song.
+4. I wouldn't say that this is going to take away from the market or the original music video in any significant way, but it could pull some users away if they click on my video instead of the original.
 
+### Experiment 2 - Edited Clip
+1. The purpose and character of use I wouldn't say is that transformative or commercial, but rather targeted for entertainment.
+2. The nature of the copyrighted work could be interpreted as creative, as I edited together two videos and then overlayed some images and GIFs.
+3. I used around 20-30 seconds from each of the Style and Wildest Dreams music videos, but they are cut into tiny pieces so it is hard to actually realize that they are from these music videos. I still think it would be substantial enough to get copyright claimed though.
+4. I would say that this has no direct effect on the market for the original because it is clearly an edit. If anything, it could potentially make the viewer go and watch the original for some basis of comparison.
+
+### Gap Analysis
+I would say the main gap that I noticed from uploading to YouTube is that the Content ID system defaults to "guilty until proven innocent." If the detector finds a content violation, then it will immediately make you re-evaluate your options, and in some cases I can imagine it would prevent you from uploading. In addition, if a user is genuinely uploading something that should be fair use, then they might have to risk getting a Copyright Strike, or worse getting demonetized.
+
+## Appendix
+All screenshots are included in the images file. The links are included as well (note: some of the youtube videos might be taken down):
+- Raw Copyrighted Clip: https://www.youtube.com/watch?v=U1fU25JCvN8
+- Edited Clip: https://youtu.be/glrfeBnv1N0
+- AI-Generated Muic Video: https://youtu.be/SFh6ruRJlks
+- AI-Generated Animation: https://youtu.be/YcDFp4oELDY
