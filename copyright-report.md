@@ -50,9 +50,31 @@ I edited together two different Taylor Swift videos (I figured they would defini
 ![5](images/2-B-1.png)
 ![6](images/2-B-2.png)
 ![7](images/2-B-3.png)
-![8](images/2-B-4.png)
-
 
 ### 3. AI-Generated Content Investigation
 
+#### AI-Generated Music Video
+The prompt I used was "generate a music video with music in the style of taylor swift. Make it have similar color palettes, similar dancers, similar movements, etc. Make it hyper accurate" in Gemini. I was able to upload the video without any copyright violations, and so far the video is still allowed.
+![8](images/3-A-1.png)
+![9](images/3-A-2.png)
+![10](images/3-A-3.png)
+![11](images/3-A-4.png)
+
+#### AI Generated Animation
+The prompt I used was "create an avatar the last airbender animation, very similar to the style and artwork of the original show. Show Aang airbending and katara waterbending" in Gemini. Similar to the first generated video, I was able to upload the video without any copyright violations, and so far the video hasn't been flagged or taken down.
+
+![12](images/3-B-1.png)
+![13](images/3-B-2.png)
+![14](images/3-B-3.png)
+![15](images/3-B-4.png)
+
+#### AI-Generated Content Research
+The policy for Google Veo3 is included in the Generative AI Additional Terms of Service and says that I own the generated content. In terms of copyright, the content is public domain, and this is due to the US Copyright Office. The rule says that if a work was created entirely by AI, then it is not eligible for copyright protection. Finally, if you upload content that looks realistic on YouTube, you ahve to check a specific AI content button to specify that it is AI. If you don't label it, then YouTube has the right to remove the content and demonetize your account. 
+
 ### 4. Legal Analysis
+#### Experiment 1 - Raw Copyrighted Clip
+i. The purpose and characterw as not transformative because I was directly copying existing content.
+ii. The existing song is creative, so when I directly copy it I am committing a violation. 
+iii. I used 30 seconds, which is significant enough for a viewer to know that this is a Taylor Swift song.
+iv. I wouldn't say that this is going to take away from the market or the original music video in any significant way, but it could pull some users away if they click on my video instead of the original.
+
