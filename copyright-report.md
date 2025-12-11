@@ -101,3 +101,5 @@ All screenshots are included in the images file. The links are included as well 
 - Edited Clip: https://youtu.be/glrfeBnv1N0
 - AI-Generated Muic Video: https://youtu.be/SFh6ruRJlks
 - AI-Generated Animation: https://youtu.be/YcDFp4oELDY
+
+<img src="images/2-A-1.png" width="400">
